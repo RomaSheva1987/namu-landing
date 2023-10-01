@@ -1,14 +1,18 @@
 # National Art Museum of Ukraine
-Landing page for еру National Art Museum of Ukraine (NAMU) - One of the largest and oldest museums in Ukraine. It presents the main information about the bakery, their products and provides a contact form.
- 
-- [Landing for NAMU](https://romasheva1987.github.io/namu-landing/)
+Landing page for the National Art Museum of Ukraine(NAMU) - One of the largest and oldest museums in Ukraine. It presents the information about current-exhibitions, nearest events, news and contacts.
 
-- [Figma design](https://www.figma.com/file/HL3XGt5ZatvJoYBhOaWY5x/museum-prototype?node-id=323%3A1957).
+### Preview
+ You can view the live preview of the landing page here: [Landing for NAMU](https://romasheva1987.github.io/namu-landing/)
 
-- HTML
+### Design Mockup
+Check out the design mockup for the landing page here: [Figma design](https://www.figma.com/file/HL3XGt5ZatvJoYBhOaWY5x/museum-prototype?node-id=323%3A1957).
 
-- CSS (SCSS)
-
-- BEM
-
+## Technologies used
+- HTML5
+- CSS3
+- Saas (SCSS)
+- BEM methodology
 - JavaScript
+
+## Overview
+The layout is responsive and adaptive, ensuring compatibility across various screen sizes, including mobile, tablet, and desktop versions.
