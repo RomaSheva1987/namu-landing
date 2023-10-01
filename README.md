@@ -1,5 +1,5 @@
 # National Art Museum of Ukraine
-Landing page for the National Art Museum of Ukraine(NAMU) - One of the largest and oldest museums in Ukraine. It presents the information about current-exhibitions, nearest events, news and contacts.
+Landing page for the National Art Museum of Ukraine(NAMU) - One of the largest and oldest museums in Ukraine. It presents the information about current-exhibitions, nearest events, news and and contact information of the museum.
 
 ### Preview
  You can view the live preview of the landing page here: [Landing for NAMU](https://romasheva1987.github.io/namu-landing/)
